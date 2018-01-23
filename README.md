@@ -1,4 +1,1 @@
-# testgit
-testgit
-my No
-commit
+backhexo：settting，config.xml
